@@ -1,0 +1,10 @@
+
+img.centre {
+    display: block;
+    margin: 0 auto;
+}
+
+#main-image {
+    width: 30em;
+    height: auto;
+}
